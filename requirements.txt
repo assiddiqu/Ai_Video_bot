@@ -1,0 +1,11 @@
+python-telegram-bot
+openai
+moviepy
+elevenlabs
+pexels_api
+requests
+pillow
+numpy
+pysrt
+dropbox
+ffmpeg
